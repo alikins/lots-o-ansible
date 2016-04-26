@@ -1,0 +1,6 @@
+[submodule "playbooks/aaron868/management"]
+	path = playbooks/aaron868/management
+	url = git@github.com:aaron868/management.git
+[submodule "playbooks/ssalevan/stevesible"]
+	path = playbooks/ssalevan/stevesible
+	url = git@github.com:ssalevan/stevesible.git
