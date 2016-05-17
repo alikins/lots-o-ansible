@@ -4,3 +4,21 @@
 [submodule "playbooks/ssalevan/stevesible"]
 	path = playbooks/ssalevan/stevesible
 	url = git@github.com:ssalevan/stevesible.git
+[submodule "everything/redhat-openstack/khaleesi"]
+	path = everything/redhat-openstack/khaleesi
+	url = git@github.com:redhat-openstack/khaleesi.git
+[submodule "everything/redhat-openstack/octario"]
+	path = everything/redhat-openstack/octario
+	url = git@github.com:redhat-openstack/octario.git
+[submodule "everything/redhat-openstack/ci-ansible-tripleo"]
+	path = everything/redhat-openstack/ci-ansible-tripleo
+	url = git@github.com:redhat-openstack/ci-ansible-tripleo.git
+[submodule "everything/openstack-ansible"]
+	path = everything/openstack-ansible
+	url = git@github.com:openstack/openstack-ansible.git
+[submodule "playbooks/RaymiiOrg"]
+	path = playbooks/RaymiiOrg
+	url = git@github.com:RaymiiOrg/ansible.git
+[submodule "debops"]
+	path = debops
+	url = git@github.com:debops/phpipam.git
