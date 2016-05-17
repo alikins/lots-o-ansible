@@ -31,3 +31,18 @@
 [submodule "everything/openshift-ansible"]
 	path = everything/openshift-ansible
 	url = git@github.com:openshift/openshift-ansible.git
+[submodule "everything/redhatqe-rhsm-ansible"]
+	path = everything/redhatqe-rhsm-ansible
+	url = git@github.com:RedHatQE/jenkins-rhsm.git
+[submodule "roles/rdo-rdomonitoring"]
+	path = roles/rdo-rdomonitoring
+	url = git@github.com:rdo-infra/ansible-role-rdomonitoring.git
+[submodule "roles/rdo-rdobase"]
+	path = roles/rdo-rdobase
+	url = git@github.com:rdo-infra/ansible-role-rdobase.git
+[submodule "playbooks/rdo-monitoring"]
+	path = playbooks/rdo-monitoring
+	url = git@github.com:rdo-infra/rdo-monitoring.git
+[submodule "roles/rdo-rdobot"]
+	path = roles/rdo-rdobot
+	url = git@github.com:rdo-infra/ansible-role-rdobot.git
