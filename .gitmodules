@@ -22,3 +22,12 @@
 [submodule "debops"]
 	path = debops
 	url = git@github.com:debops/phpipam.git
+[submodule "roles/yocto-ansible-docker-postgres"]
+	path = roles/yocto-ansible-docker-postgres
+	url = git@github.com:Yoctol/ansible-docker-postgres.git
+[submodule "roles/yocto-ansible-docker-redis"]
+	path = roles/yocto-ansible-docker-redis
+	url = git@github.com:Yoctol/ansible-docker-redis.git
+[submodule "everything/openshift-ansible"]
+	path = everything/openshift-ansible
+	url = git@github.com:openshift/openshift-ansible.git
