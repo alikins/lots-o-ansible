@@ -1,0 +1,20 @@
+# excludes for 'csearch/cindex' from https://github.com/google/codesearch
+# or one of it's many forks https://github.com/google/codesearch/network
+*.po
+*.mo
+*.pem
+*.crt
+*.pyc
+*.html
+*.htm
+*.doc
+PKG-INFO
+*.pdf
+*.pyo
+*.der
+*.xml
+*.js
+*/.git
+*/configure
+*/aclocal
+

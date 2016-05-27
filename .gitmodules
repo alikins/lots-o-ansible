@@ -46,3 +46,15 @@
 [submodule "roles/rdo-rdobot"]
 	path = roles/rdo-rdobot
 	url = git@github.com:rdo-infra/ansible-role-rdobot.git
+[submodule "everything/ansible-ansible-ansible-examples"]
+	path = everything/ansible-ansible-ansible-examples
+	url = git@github.com:ansible/ansible-examples.git
+[submodule "everything/geerlingguy-ansible-vagrant"]
+	path = everything/geerlingguy-ansible-vagrant
+	url = git@github.com:geerlingguy/ansible-vagrant-examples.git
+[submodule "everything/beetboxvm"]
+	path = everything/beetboxvm
+	url = git@github.com:beetboxvm/beetbox.git
+[submodule "everything/huschteguzzel-fabric"]
+	path = everything/huschteguzzel-fabric
+	url = git@github.com:mfriedenhagen/huschteguzzel-fabric.git
