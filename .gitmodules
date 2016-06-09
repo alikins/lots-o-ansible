@@ -58,3 +58,18 @@
 [submodule "everything/huschteguzzel-fabric"]
 	path = everything/huschteguzzel-fabric
 	url = git@github.com:mfriedenhagen/huschteguzzel-fabric.git
+[submodule "everything/ceph-ansible"]
+	path = everything/ceph-ansible
+	url = git@github.com:ceph/ceph-ansible.git
+[submodule "code/ansible-hiera"]
+	path = code/ansible-hiera
+	url = https://github.com/padajuan/ansible-hiera
+[submodule "playbooks/rhtconsulting-playbooks"]
+	path = playbooks/rhtconsulting-playbooks
+	url = git@github.com:rhtconsulting/ansible-middleware-playbooks.git
+[submodule "roles/ngbalk"]
+	path = roles/ngbalk
+	url = https://github.com/ngbalk/ansible
+[submodule "playbooks/ansible-test-network-modules"]
+	path = playbooks/ansible-test-network-modules
+	url = git@github.com:ansible/test-network-modules.git
