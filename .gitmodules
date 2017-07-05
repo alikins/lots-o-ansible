@@ -10,9 +10,6 @@
 [submodule "everything/redhat-openstack/octario"]
 	path = everything/redhat-openstack/octario
 	url = git@github.com:redhat-openstack/octario.git
-[submodule "everything/redhat-openstack/ci-ansible-tripleo"]
-	path = everything/redhat-openstack/ci-ansible-tripleo
-	url = git@github.com:redhat-openstack/ci-ansible-tripleo.git
 [submodule "everything/openstack-ansible"]
 	path = everything/openstack-ansible
 	url = git@github.com:openstack/openstack-ansible.git
@@ -31,9 +28,6 @@
 [submodule "everything/openshift-ansible"]
 	path = everything/openshift-ansible
 	url = git@github.com:openshift/openshift-ansible.git
-[submodule "everything/redhatqe-rhsm-ansible"]
-	path = everything/redhatqe-rhsm-ansible
-	url = git@github.com:RedHatQE/jenkins-rhsm.git
 [submodule "roles/rdo-rdomonitoring"]
 	path = roles/rdo-rdomonitoring
 	url = git@github.com:rdo-infra/ansible-role-rdomonitoring.git
@@ -73,3 +67,9 @@
 [submodule "playbooks/ansible-test-network-modules"]
 	path = playbooks/ansible-test-network-modules
 	url = git@github.com:ansible/test-network-modules.git
+[submodule "playbooks/redhat-cip/dci-infra"]
+	path = playbooks/redhat-cip/dci-infra
+	url = git@github.com:redhat-cip/dci-infra.git
+[submodule "code/dci-ansible"]
+	path = code/dci-ansible
+	url = git@github.com:redhat-cip/dci-ansible.git
