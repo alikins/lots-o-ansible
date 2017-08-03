@@ -73,3 +73,6 @@
 [submodule "everything/debops-ansible"]
 	path = everything/debops-ansible
 	url = git@github.com:debops/ansible-debops.git
+[submodule "everything/fabaff-fedora-ansible"]
+	path = everything/fabaff-fedora-ansible
+	url = git@github.com:fabaff/fedora-ansible.git
