@@ -76,3 +76,6 @@
 [submodule "everything/fabaff-fedora-ansible"]
 	path = everything/fabaff-fedora-ansible
 	url = git@github.com:fabaff/fedora-ansible.git
+[submodule "everything/fedora-infra"]
+	path = everything/fedora-infra
+	url = https://infrastructure.fedoraproject.org/infra/ansible.git
