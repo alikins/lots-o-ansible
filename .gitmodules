@@ -16,9 +16,6 @@
 [submodule "playbooks/RaymiiOrg"]
 	path = playbooks/RaymiiOrg
 	url = git@github.com:RaymiiOrg/ansible.git
-[submodule "debops"]
-	path = debops
-	url = git@github.com:debops/phpipam.git
 [submodule "roles/yocto-ansible-docker-postgres"]
 	path = roles/yocto-ansible-docker-postgres
 	url = git@github.com:Yoctol/ansible-docker-postgres.git
