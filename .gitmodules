@@ -79,3 +79,21 @@
 [submodule "everything/fedora-infra"]
 	path = everything/fedora-infra
 	url = https://infrastructure.fedoraproject.org/infra/ansible.git
+[submodule "everything/mrlesmithjr-ansible"]
+	path = everything/mrlesmithjr-ansible
+	url = git@github.com:mrlesmithjr/Ansible.git
+[submodule "everything/edx-configuration"]
+	path = everything/edx-configuration
+	url = git@github.com:edx/configuration.git
+[submodule "everything/roots-trellis"]
+	path = everything/roots-trellis
+	url = git@github.com:roots/trellis.git
+[submodule "everything/cyverse-atmosphere-ansible"]
+	path = everything/cyverse-atmosphere-ansible
+	url = git@github.com:cyverse/atmosphere-ansible.git
+[submodule "everything/adithyakhamithkar-ansible-playbooks"]
+	path = everything/adithyakhamithkar-ansible-playbooks
+	url = git@github.com:adithyakhamithkar/ansible-playbooks.git
+[submodule "everything/AtlasOfLivingAustralia-ala-install"]
+	path = everything/AtlasOfLivingAustralia-ala-install
+	url = git@github.com:AtlasOfLivingAustralia/ala-install.git
