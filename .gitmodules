@@ -67,3 +67,9 @@
 [submodule "code/dci-ansible"]
 	path = code/dci-ansible
 	url = git@github.com:redhat-cip/dci-ansible.git
+[submodule "playbooks/debops"]
+	path = playbooks/debops
+	url = git@github.com:debops/debops-playbooks.git
+[submodule "everything/debops-ansible"]
+	path = everything/debops-ansible
+	url = git@github.com:debops/ansible-debops.git
