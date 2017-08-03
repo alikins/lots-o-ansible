@@ -46,9 +46,6 @@
 [submodule "everything/beetboxvm"]
 	path = everything/beetboxvm
 	url = git@github.com:beetboxvm/beetbox.git
-[submodule "everything/huschteguzzel-fabric"]
-	path = everything/huschteguzzel-fabric
-	url = git@github.com:mfriedenhagen/huschteguzzel-fabric.git
 [submodule "everything/ceph-ansible"]
 	path = everything/ceph-ansible
 	url = git@github.com:ceph/ceph-ansible.git
