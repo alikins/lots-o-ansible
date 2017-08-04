@@ -97,3 +97,12 @@
 [submodule "everything/AtlasOfLivingAustralia-ala-install"]
 	path = everything/AtlasOfLivingAustralia-ala-install
 	url = git@github.com:AtlasOfLivingAustralia/ala-install.git
+[submodule "everything/redhat-cop-casl-ansible"]
+	path = everything/redhat-cop-casl-ansible
+	url = git@github.com:redhat-cop/casl-ansible.git
+[submodule "everything/miphreal-dev-config"]
+	path = everything/miphreal-dev-config
+	url = git@github.com:miphreal/dev-config.git
+[submodule "everything/thisdougb-ansible-hashivault"]
+	path = everything/thisdougb-ansible-hashivault
+	url = git@github.com:thisdougb/ansible-hashivault.git
