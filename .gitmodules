@@ -109,3 +109,6 @@
 [submodule "everything/leucos-ansible-tuto"]
 	path = everything/leucos-ansible-tuto
 	url = git@github.com:leucos/ansible-tuto.git
+[submodule "everything/jlund-streisand"]
+	path = everything/jlund-streisand
+	url = git@github.com:jlund/streisand.git
