@@ -106,3 +106,6 @@
 [submodule "everything/thisdougb-ansible-hashivault"]
 	path = everything/thisdougb-ansible-hashivault
 	url = git@github.com:thisdougb/ansible-hashivault.git
+[submodule "everything/leucos-ansible-tuto"]
+	path = everything/leucos-ansible-tuto
+	url = git@github.com:leucos/ansible-tuto.git
