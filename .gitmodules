@@ -58,9 +58,6 @@
 [submodule "roles/ngbalk"]
 	path = roles/ngbalk
 	url = https://github.com/ngbalk/ansible
-[submodule "playbooks/ansible-test-network-modules"]
-	path = playbooks/ansible-test-network-modules
-	url = git@github.com:ansible/test-network-modules.git
 [submodule "playbooks/redhat-cip/dci-infra"]
 	path = playbooks/redhat-cip/dci-infra
 	url = git@github.com:redhat-cip/dci-infra.git
