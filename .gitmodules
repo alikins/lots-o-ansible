@@ -166,3 +166,12 @@
 [submodule "everything/dev-sec-ansible-nginx-hardening"]
 	path = everything/dev-sec-ansible-nginx-hardening
 	url = git@github.com:dev-sec/ansible-nginx-hardening.git
+[submodule "everything/jefftriplett-dotfiles"]
+	path = everything/jefftriplett-dotfiles
+	url = git@github.com:jefftriplett/dotfiles.git
+[submodule "everything/geerlingguy-mac-dev-playbook"]
+	path = everything/geerlingguy-mac-dev-playbook
+	url = git@github.com:geerlingguy/mac-dev-playbook.git
+[submodule "docs/geerlingguy-ansible-for-devops"]
+	path = docs/geerlingguy-ansible-for-devops
+	url = git@github.com:geerlingguy/ansible-for-devops.git
