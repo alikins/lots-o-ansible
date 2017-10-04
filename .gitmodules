@@ -112,3 +112,57 @@
 [submodule "everything/jlund-streisand"]
 	path = everything/jlund-streisand
 	url = git@github.com:jlund/streisand.git
+[submodule "everything/enginyoyen-ansible-best-practices"]
+	path = everything/enginyoyen-ansible-best-practices
+	url = git@github.com:enginyoyen/ansible-best-practises.git
+[submodule "roles/anistrano-deploy"]
+	path = roles/anistrano-deploy
+	url = git@github.com:ansistrano/deploy.git
+[submodule "everything/kubernetes-incubator-kubespray"]
+	path = everything/kubernetes-incubator-kubespray
+	url = git@github.com:kubernetes-incubator/kubespray.git
+[submodule "docs/lorin-ansible-quickref"]
+	path = docs/lorin-ansible-quickref
+	url = git@github.com:lorin/ansible-quickref.git
+[submodule "code/inventory/adammck-terraform-inventory"]
+	path = code/inventory/adammck-terraform-inventory
+	url = git@github.com:adammck/terraform-inventory.git
+[submodule "everything/trailofbits-algo-ipsec-vpn"]
+	path = everything/trailofbits-algo-ipsec-vpn
+	url = git@github.com:trailofbits/algo.git
+[submodule "everything/sovereign-sovereign"]
+	path = everything/sovereign-sovereign
+	url = git@github.com:sovereign/sovereign.git
+[submodule "playbooks/fusor/catasb"]
+	path = playbooks/fusor/catasb
+	url = git@github.com:fusor/catasb.git
+[submodule "code/fusor/ansible-asb-modules"]
+	path = code/fusor/ansible-asb-modules
+	url = git@github.com:fusor/ansible-asb-modules.git
+[submodule "everything/dev-sec-ansible-os-hardening"]
+	path = everything/dev-sec-ansible-os-hardening
+	url = git@github.com:dev-sec/ansible-os-hardening.git
+[submodule "everything/tryolabs-metamon"]
+	path = everything/tryolabs-metamon
+	url = git@github.com:tryolabs/metamon.git
+[submodule "roles/DavidWittman.redis"]
+	path = roles/DavidWittman.redis
+	url = git@github.com:DavidWittman/ansible-redis.git
+[submodule "everything/analytically-hadoop-ansible"]
+	path = everything/analytically-hadoop-ansible
+	url = git@github.com:analytically/hadoop-ansible.git
+[submodule "everything/laincloud-lain"]
+	path = everything/laincloud-lain
+	url = git@github.com:laincloud/lain.git
+[submodule "docs/ansiblecookbook-ansiblecookbook"]
+	path = docs/ansiblecookbook-ansiblecookbook
+	url = git@github.com:ansiblebook/ansiblebook.git
+[submodule "everything/dev-sec-ansible-ssh-hardening"]
+	path = everything/dev-sec-ansible-ssh-hardening
+	url = git@github.com:dev-sec/ansible-ssh-hardening.git
+[submodule "everything/dev-sec-ansible-windows-hardening"]
+	path = everything/dev-sec-ansible-windows-hardening
+	url = git@github.com:dev-sec/ansible-windows-hardening.git
+[submodule "everything/dev-sec-ansible-nginx-hardening"]
+	path = everything/dev-sec-ansible-nginx-hardening
+	url = git@github.com:dev-sec/ansible-nginx-hardening.git
