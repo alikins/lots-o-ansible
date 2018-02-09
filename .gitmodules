@@ -187,3 +187,30 @@
 [submodule "everything/openstack-zuul-roles"]
 	path = everything/openstack-zuul-roles
 	url = git@github.com:openstack-infra/openstack-zuul-roles.git
+[submodule "everything/openstack-ansible-plugins"]
+	path = everything/openstack-ansible-plugins
+	url = git@github.com:openstack/openstack-ansible-plugins.git
+[submodule "everything/openstack-bifrost"]
+	path = everything/openstack-bifrost
+	url = git@github.com:openstack/bifrost.git
+[submodule "everything/openstack-windmill"]
+	path = everything/openstack-windmill
+	url = git@github.com:openstack/windmill.git
+[submodule "everything/openstack-ansible-ops"]
+	path = everything/openstack-ansible-ops
+	url = git@github.com:openstack/openstack-ansible-ops.git
+[submodule "everything/openstack-kolla-ansible"]
+	path = everything/openstack-kolla-ansible
+	url = git@github.com:openstack/kolla-ansible.git
+[submodule "everything/openstack-ansible-hardening"]
+	path = everything/openstack-ansible-hardening
+	url = git@github.com:openstack/ansible-hardening.git
+[submodule "everything/ironic-badger"]
+	path = everything/ironic-badger
+	url = git@github.com:IronicBadger/ansible.git
+[submodule "everything/contiv-ansible"]
+	path = everything/contiv-ansible
+	url = git@github.com:contiv/ansible.git
+[submodule "everything/crombeen"]
+	path = everything/crombeen
+	url = git@github.com:crombeen/ansible.git
