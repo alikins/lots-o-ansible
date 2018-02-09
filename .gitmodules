@@ -172,3 +172,18 @@
 [submodule "docs/geerlingguy-ansible-for-devops"]
 	path = docs/geerlingguy-ansible-for-devops
 	url = git@github.com:geerlingguy/ansible-for-devops.git
+[submodule "everything/openstack-zuul"]
+	path = everything/openstack-zuul
+	url = git@github.com:openstack-infra/zuul.git
+[submodule "everything/openstack-zuul-jobs"]
+	path = everything/openstack-zuul-jobs
+	url = git@github.com:openstack-infra/zuul-jobs.git
+[submodule "everything/openstack-ci-zuul-jobs"]
+	path = everything/openstack-ci-zuul-jobs
+	url = git@github.com:openstack-infra/openstack-zuul-jobs.git
+[submodule "everything/openstack-infra-ansible"]
+	path = everything/openstack-infra-ansible
+	url = git@github.com:openstack-infra/infra-ansible.git
+[submodule "everything/openstack-zuul-roles"]
+	path = everything/openstack-zuul-roles
+	url = git@github.com:openstack-infra/openstack-zuul-roles.git
